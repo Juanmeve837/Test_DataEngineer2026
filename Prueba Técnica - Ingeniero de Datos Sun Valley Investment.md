@@ -94,10 +94,21 @@ El script generará/actualizará los archivos CSV en la carpeta `output/`:
 Para consolidar csv y data análisis 'data_analyst.ipynb' 
 
 Contiene:
+
 	- Consolidacion cvs -- `master_dataset.csv`
 	- Información rescatada por expediente
 	- Información rescatada por sección
+	
+### 3.1 Resultados	
+#### 3.1.1 Información rescatada por expediente
 
+<img width="989" height="490" alt="fe593d1b-da5f-4595-a4e2-e818ba6164e4" src="https://github.com/user-attachments/assets/c03f7875-08fc-484f-97b9-3397d2282388" />
+
+#### 3.1.2 Información rescatada por sección
+
+<img width="790" height="490" alt="b94c7ea0-bfd5-4c9f-bdbd-546e1c38a21f" src="https://github.com/user-attachments/assets/023cf5c5-06f0-4443-94fb-59535df4b967" />
+
+#### 3.1.3 Distribución del repositorio
 ```
 proyecto/
 ├── data/                 # PDFs de entrada
