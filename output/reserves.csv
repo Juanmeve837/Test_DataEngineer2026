@@ -1,0 +1,7 @@
+timestamp,file_id,category,tonnage_mt,grade_primary,contained_metal
+2026-01-09 14:09:20,878C2FBC,Proven,1.515,12.25,597 koz Au
+2026-01-09 14:09:20,878C2FBC,Probable,2.017,11.16,723 koz Au
+2026-01-09 15:02:57,2B2256D4,Proven,86.0,71.0,195 koz Au
+2026-01-09 15:02:57,2B2256D4,Probable,438.0,82.0,"1,159 koz Au"
+2026-01-09 15:26:40,2B2256D4,Proven,86.0,71.0,195 koz Au
+2026-01-09 15:26:40,2B2256D4,Probable,438.0,82.0,"1,159 koz Au"

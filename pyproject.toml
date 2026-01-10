@@ -1,0 +1,21 @@
+[project]
+name = "test-dataengineer2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "chromadb>=1.4.0",
+    "fastembed>=0.7.4",
+    "ipykernel>=7.1.0",
+    "llama-index>=0.14.12",
+    "llama-index-core>=0.14.12",
+    "llama-index-embeddings-fastembed>=0.5.0",
+    "llama-index-embeddings-openai>=0.5.1",
+    "llama-index-llms-openai>=0.6.12",
+    "llama-index-vector-stores-chroma>=0.5.5",
+    "pandas>=2.3.3",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+    "unstructured[pdf]>=0.18.26",
+]

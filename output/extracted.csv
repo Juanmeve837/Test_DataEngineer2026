@@ -1,0 +1,13 @@
+project_name,company_name,location_country,location_region,report_date,resource_measured_tonnage_mt,resource_measured_grade,resource_measured_contained,resource_indicated_tonnage_mt,resource_indicated_grade,resource_indicated_contained,resource_inferred_tonnage_mt,resource_inferred_grade,resource_inferred_contained,capex_initial,opex_life_of_mine,npv_discounted,irr_after_tax,execution_ts,file_code
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,,,,,,,,,,2026-01-08 21:12:14,sedFBC
+Guadalupe Project,Solvista Gold Corporation,Colombia,,2011-02-28,,,,,2026-01-08 21:18:21,sed3C6
+Guadalupe Project,Solvista Gold Corporation,Colombia,,2011-02-28,,,,,2026-01-08 21:23:25,sed3C6
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,,,,,,,,,,2026-01-08 22:19:32,sedFBC
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,,,,,,,,,,2026-01-08 22:38:17,sedFBC
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,,,,,,,,,,2026-01-08 22:48:38,sedFBC
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,,,,,,,,,,2026-01-08 23:06:11,sedFBC
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,2026-01-08 23:20:54,sedFBC
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,2026-01-08 23:25:55,sedFBC
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,,,,,,,,,,2026-01-08 23:32:44,sedFBC
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,,,,,,,,,,2026-01-08 23:38:41,sedFBC
+Segovia Operations,Aris Mining Corporation,Colombia,Antioquia,2023-09-30,,,,,,,,,,,,,,2026-01-09 08:39:58,878C2FBC
