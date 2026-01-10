@@ -33,8 +33,8 @@ source .venv/bin/activate
 # En Windows:
 .venv\Scripts\activate
 
-# Instalar dependencias
-uv pip install -r pyproject.toml
+# Instalar dependencias si hay alguna dificultad
+uv pip install .
 ```
 
 ## 2. Uso de GitHub Models
@@ -56,7 +56,9 @@ Se debe configurar manualmente la variable de entorno `GITHUB_TOKEN` con un [Per
 Finalmente, crear un archivo .env:
 
 API_HOST=github
+
 GITHUB_MODEL=gpt-4o
+
 GITHUB_TOKEN=tu_token_de_github_aqui
 
 modelos disponibles:  (*Nota: Se recomienda verificar la compatibilidad actual del modelo seleccionado con LlamaIndex)
@@ -92,10 +94,21 @@ El script generará/actualizará los archivos CSV en la carpeta `output/`:
 Para consolidar csv y data análisis 'data_analyst.ipynb' 
 
 Contiene:
+
 	- Consolidacion cvs -- `master_dataset.csv`
 	- Información rescatada por expediente
 	- Información rescatada por sección
+	
+### 3.1 Resultados	
+#### 3.1.1 Información rescatada por expediente
 
+<img width="989" height="490" alt="fe593d1b-da5f-4595-a4e2-e818ba6164e4" src="https://github.com/user-attachments/assets/c03f7875-08fc-484f-97b9-3397d2282388" />
+
+#### 3.1.2 Información rescatada por sección
+
+<img width="790" height="490" alt="b94c7ea0-bfd5-4c9f-bdbd-546e1c38a21f" src="https://github.com/user-attachments/assets/023cf5c5-06f0-4443-94fb-59535df4b967" />
+
+#### 3.1.3 Distribución del repositorio
 ```
 proyecto/
 ├── data/                 # PDFs de entrada
@@ -205,4 +218,6 @@ Para transformar esta arquitectura en una solución empresarial a gran escala:
 | **Embeddings**      | OpenAI text-embedding-3   | **$0.0001**              | Es casi despreciable por volumen.    |
 | **Infraestructura** | AWS (S3, Lambda, Step F.) | **$0.002**               | Orquestación y almacenamiento base.  |
 | **TOTAL BASE**      |                           | **$0.0401**              | **~$0.04 USD por hoja.**             |
+
+
 **Autor:** Juan Fernando Mesa **Fecha:** Enero 2026

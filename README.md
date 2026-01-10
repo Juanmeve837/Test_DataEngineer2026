@@ -1,3 +1,10 @@
+# Desarrollo Prueba Técnica - Sun Valley Investment - Juan Fernando Mesa
+
+Este repositorio contiene la solución a la prueba técnica. 
+Para ver la documentación completa, haz clic en el siguiente enlace:
+
+👉 [Ver Documentación Detallada](./Prueba%20Técnica%20-%20Ingeniero%20de%20Datos%20Sun%20Valley%20Investment.md)
+
 # Test Técnico - Ingeniero de Datos
 **Sun Valley Investment - 2026**
 
@@ -40,3 +47,4 @@ Los datos en este repositorio son de uso exclusivo para este proceso de selecci�
 ---
 
 **¡Buena suerte!** 🍀
+
