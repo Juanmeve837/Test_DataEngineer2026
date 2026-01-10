@@ -45,6 +45,7 @@ logs/
 results/
 
 # Environment variables
+.env
 .env.local
 
 # Jupyter Notebooks
