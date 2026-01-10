@@ -56,7 +56,9 @@ Se debe configurar manualmente la variable de entorno `GITHUB_TOKEN` con un [Per
 Finalmente, crear un archivo .env:
 
 API_HOST=github
+
 GITHUB_MODEL=gpt-4o
+
 GITHUB_TOKEN=tu_token_de_github_aqui
 
 modelos disponibles:  (*Nota: Se recomienda verificar la compatibilidad actual del modelo seleccionado con LlamaIndex)
