@@ -33,8 +33,8 @@ source .venv/bin/activate
 # En Windows:
 .venv\Scripts\activate
 
-# Instalar dependencias
-uv pip install -r pyproject.toml
+# Instalar dependencias si hay alguna dificultad
+uv pip install .
 ```
 
 ## 2. Uso de GitHub Models
