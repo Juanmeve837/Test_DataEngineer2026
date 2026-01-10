@@ -218,4 +218,6 @@ Para transformar esta arquitectura en una solución empresarial a gran escala:
 | **Embeddings**      | OpenAI text-embedding-3   | **$0.0001**              | Es casi despreciable por volumen.    |
 | **Infraestructura** | AWS (S3, Lambda, Step F.) | **$0.002**               | Orquestación y almacenamiento base.  |
 | **TOTAL BASE**      |                           | **$0.0401**              | **~$0.04 USD por hoja.**             |
+
+
 **Autor:** Juan Fernando Mesa **Fecha:** Enero 2026
