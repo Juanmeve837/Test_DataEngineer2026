@@ -25,7 +25,7 @@ git clone https://github.com/Juanmeve837/Test_DataEngineer2026.git
 cd Test_DataEngineer2026
 
 # Crear entorno virtual con uv
-uv venv
+uv sync
 
 # Activar el entorno virtual
 # En Linux/macOS:
@@ -33,8 +33,6 @@ source .venv/bin/activate
 # En Windows:
 .venv\Scripts\activate
 
-# Instalar dependencias si hay alguna dificultad
-uv pip install .
 ```
 
 ## 2. Uso de GitHub Models
