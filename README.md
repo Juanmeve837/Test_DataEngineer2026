@@ -1,4 +1,4 @@
-# Desarrollo Prueba Técnica - Sun Valley Investment - Juan Fernando Mesa
+# RAG NI 43-101 Extractor
 
 Este repositorio contiene la solución a la prueba técnica. 
 Para ver la documentación completa, haz clic en el siguiente enlace:
